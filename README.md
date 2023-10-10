@@ -4,20 +4,22 @@ This project explores video game sales data from 1977 to 2020 using PostgreSQL. 
 ## Data Overview :
 Here, we’ll explore the top 400 best-selling video games created between 1977 and 2020. We’ll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
 
-* game_sales table
+**1 game_sales table**
 
-column: game (varchar) — Name of the video game
-column: platform (varchar) — Gaming platform
-column: publisher (varchar) — Game publisher
-column: developer (varchar) — Game developer
-column: games_sold (float) — Number of copies sold (millions)
-column: year (int) — Release year
+columns and its description : 
+* game (varchar) — Name of the video game
+* platform (varchar) — Gaming platform
+* publisher (varchar) — Game publisher
+* developer (varchar) — Game developer
+* games_sold (float) — Number of copies sold (millions)
+* year (int) — Release year
 
-* reviews table
+**2 reviews table**
 
-column: game (varchar) — Name of the video game
-column: critic_score (float) — Critic score according to Metacritic
-column: user_score (float) — User score according to Metacritic
+columns and its description : 
+* game (varchar) — Name of the video game
+* critic_score (float) — Critic score according to Metacritic
+* user_score (float) — User score according to Metacritic
 
 ## Data Analysis 
 
