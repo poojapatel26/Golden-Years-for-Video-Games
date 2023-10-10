@@ -1,6 +1,8 @@
 # Discovering the Golden Age of Video Games : A SQL Project Journey
 This project explores video game sales data from 1977 to 2020 using PostgreSQL. Which will explore the golden age of video games for all the time.
 
+![](https://github.com/poojapatel26/Video-Game-Analysis/blob/main/game_img.jpeg)
+
 ## Data Overview :
 Here, we’ll explore the top 400 best-selling video games created between 1977 and 2020. We’ll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
 
